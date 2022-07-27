@@ -1,5 +1,5 @@
 # BookingLia
-GUI based movie ticket booking system.
+GUI based movie ticket booking system with JDBC.
 This project is developed using Apache NetBeans IDE.
 
 - ![Screenshot (123)](https://user-images.githubusercontent.com/76277810/181080993-f4974b61-8440-48a6-8eee-b7812d822c99.png)
