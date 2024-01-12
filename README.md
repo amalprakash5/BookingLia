@@ -2,13 +2,16 @@
 GUI based movie ticket booking system with JDBC.
 This project is developed using Apache NetBeans IDE.
 
+Home Screen
 - ![image](https://github.com/amalprakash5/BookingLia/assets/76277810/410679d0-d961-4a2d-a4f9-8c45e740a8e2)
+
+Booking a movie tiket
 - ![image](https://github.com/amalprakash5/BookingLia/assets/76277810/d208790c-696b-401c-a723-4a7eda242b4e)
 - ![image](https://github.com/amalprakash5/BookingLia/assets/76277810/73d93a80-c387-4b1b-b417-0dd05f86da6c)
 - ![image](https://github.com/amalprakash5/BookingLia/assets/76277810/453c3e0b-249e-4ce4-9891-6896fcf1c1f7)
 - ![image](https://github.com/amalprakash5/BookingLia/assets/76277810/0cd129e5-b599-40f0-94bb-470b8c9cab29)
 - ![image](https://github.com/amalprakash5/BookingLia/assets/76277810/da6b230a-b348-4a76-90af-ed6a75bb0b5e)
-- ![Screenshot (107)](https://user-images.githubusercontent.com/76277810/181081042-c767fa6d-cb42-4ede-a4e9-701149348216.png)
+
 - ![Screenshot (108)](https://user-images.githubusercontent.com/76277810/181081426-686bb5c1-9967-4b4b-95cf-ba0800279ca2.png)
 - ![Screenshot (109)](https://user-images.githubusercontent.com/76277810/181081441-b5157670-e83f-4239-aed1-6e7b75860899.png)
 - ![Screenshot (110)](https://user-images.githubusercontent.com/76277810/181081464-bcc81334-72de-44a5-a77c-f4adb8038804.png)
